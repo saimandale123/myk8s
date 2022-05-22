@@ -5,7 +5,7 @@ metadata:
 spec:
   replicas: 3
   selector: 
-    app:  
+    app: mynginx
     version: 2.7.2
 
   templete:
